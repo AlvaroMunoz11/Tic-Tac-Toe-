@@ -1,0 +1,21 @@
+body{
+    background-color: grey;
+    margin: 0px;
+    
+}
+
+.fa{
+    text-align: center;
+}
+  
+button{
+    width: 30vw;
+    height: 30vh;
+    background-color: white;
+    border: none;
+    margin: 2.5%;
+    padding: 0;
+    
+
+}
+  
